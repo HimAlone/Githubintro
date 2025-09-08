@@ -5,3 +5,5 @@ banana
 orange
 cherry
 eggs
+cereal
+mango
